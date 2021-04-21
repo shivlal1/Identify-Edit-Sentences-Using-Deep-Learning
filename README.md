@@ -1,19 +1,34 @@
 # Identify-Edit-Sentences-using-Deep-Learning
 
+
+TASK : Given a sentence from scientific journal , classify as Edit if it contains any mistake or else classify as no-Edit.
+
+
 Preprocessing_CNN&LSTMmodel Contents
 _____________________________________
+
+
   1 Task
+  
   2 Unzip data
+  
   3 Load Data from XML files
+  
   4 Create Train and test Dataframe
+  
   5 Preprocessing
+  
   6 EDA
+  
   7 Metrics
+  
   8 CNN based Model
+  
     * Architecture 1 
     * Architecture 2
 
   9 LSTM based model
+  
     * LSTM Model
     * LSTM with attention Model
     * Bi-LSTM Model
@@ -26,12 +41,18 @@ _____________________________________
 ALBERT_models contents
 _______________________________
  
+ 
   1 Load Data
+  
   2 XGboost
+  
   3 Feed forward neural network
+  
   4 Summary
+ 
  
  
  Pipeline contents
  ____________________________________
+ 
   Final Pipeline Function
